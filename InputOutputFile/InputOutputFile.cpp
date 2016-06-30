@@ -1,8 +1,7 @@
-// sample program 
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
+#include <cstdlib>
 
 using namespace std;
 
